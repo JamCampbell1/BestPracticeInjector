@@ -1,0 +1,46 @@
+{
+    "marketplace_packs": [
+        {
+            "id": "Office365",
+            "version": "latest"
+        },
+        {
+            "id": "Core",
+            "version": "latest"
+        },
+        {
+            "id": "CortexResponseAndRemediation",
+            "version": "latest"
+        }
+    ],
+    "custom_packs": [
+        {
+         
+        }
+    ],
+    "lookup_datasets": [
+        {
+
+        }
+    ],
+    "jobs":[
+        {
+           
+        }
+    ],
+    "lists": [
+        {
+           
+        }
+    ],
+    "integration_instances": [
+        {
+            
+        }
+    ],
+    "dashboards": [
+        {
+           
+        }
+    ]
+}
